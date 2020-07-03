@@ -1,0 +1,2 @@
+Label: person, Conf: 0.99330 	
+total_person_count: 1
